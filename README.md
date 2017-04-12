@@ -7,6 +7,9 @@ The API lets your client applications send URLs within a HTTP POST to the Google
 
 This project focuses on an OpenDXL wrapper for the Google Safe Browsing API.
 
+![Alt text](https://cloud.githubusercontent.com/assets/24607076/24956848/7687e3ee-1f81-11e7-9b9a-2c3105532155.png "Structure")
+
+
 ## Setup
 
 #### McAfee OpenDXL
